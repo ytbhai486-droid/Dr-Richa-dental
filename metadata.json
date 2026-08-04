@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Richa Dental Clinic",
+  "description": "Premium, 3D animated dental clinic website for Dr. Richa with interactive booking, service details, 3D dental models, and patient reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
